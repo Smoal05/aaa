@@ -1,9 +1,0 @@
-{
-  "services": [
-    {
-      "name": "godot-server",
-      "env": "python3 server.py",
-      "port": 8080
-    }
-  ]
-}
